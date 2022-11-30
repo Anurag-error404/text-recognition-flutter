@@ -1,6 +1,6 @@
 # text_recognition
 
-A new Flutter project.
+Download the app from here : [https://drive.google.com/file/d/1BqnUGN9yUCTV6LyGmD-YRJGMuv3TK_eV/view?usp=share_link](https://drive.google.com/file/d/1BqnUGN9yUCTV6LyGmD-YRJGMuv3TK_eV/view?usp=share_link)
 
 ## Getting Started
 
